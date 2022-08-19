@@ -1,1 +1,10 @@
 npm install --save-dev husky 
+
+{
+    // Sscripts, dependencies, etc.
+    "husky": {
+        "hooks": {
+          "pre-commit": "npm run prod"
+        }
+    }
+}
