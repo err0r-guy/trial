@@ -1,4 +1,4 @@
-npm install --save-dev husky 
+//npm install --save-dev husky 
 
 {
     // Sscripts, dependencies, etc.
